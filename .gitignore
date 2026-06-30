@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Measurement outputs (sample data is versioned under data/sample/)
+data/raw/*.csv
+data/processed/*.csv
